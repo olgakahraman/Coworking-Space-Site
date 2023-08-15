@@ -18,7 +18,9 @@ ul{
 li{
     cursor:pointer;
 }
-
+.align-right{
+    margin-left: auto;
+}
 .logo{
       size:18px;
    font-weight: 700;
